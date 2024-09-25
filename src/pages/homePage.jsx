@@ -97,7 +97,7 @@ export default function Home() {
             </div>
             <div class="col-md-3" data-aos="fade-down" data-aos-duration="1000">
                 <div class="bg-white p-3 text-center rounded box"><img class="img-responsive rounded-circle" src={varad} width="90"></img>
-                    <h5 class="mt-3 name">VARAD<br></br> PUNDLIK</h5><span class="work d-block">21439</span><span class="work d-block">FULL STACK WEB DEVELOPER</span>
+                    <h5 class="mt-3 name">MAYURESH<br></br> KHANKALE</h5><span class="work d-block">21439</span><span class="work d-block">FULL STACK WEB DEVELOPER</span>
                     {/* <div class="mt-4 about"><span>is a long established fact that eader&nbsp; will be distracted by the readable content.</span></div> */}
                     <div class="mt-4">
                     <ul class="social mb-0 list-inline mt-3">
