@@ -38,7 +38,7 @@ Contributions to the project are welcome. To contribute, please follow these ste
 
 ## Authors
 
-- Varad Pundlik (varadpundlik@gmail.com)
+- Mayuresh Khankale (mayuresh4361@gmail.com)
 - Manav Mehta (https://github.com/Manav2031)
 - Disha Saxena (https://github.com/disha1234t4rdkcbvdfkbf)
 - Divyank Sagvekar(https://github.com/divyank007)
